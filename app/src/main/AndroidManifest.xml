@@ -17,7 +17,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MSF_Payload_Android_L"
-        tools:targetApi="21">
+        tools:targetApi="21"
+        tools:ignore="ObsoleteSdkInt">
         <activity
             android:name=".MainActivity"
             android:exported="true">
